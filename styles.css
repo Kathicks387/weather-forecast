@@ -8,6 +8,9 @@ body {
     max-width: 400px;
 }
 
+label {
+    margin-bottom: 10px;
+}
 .icon {
     position: relative;
     top: -50px;
